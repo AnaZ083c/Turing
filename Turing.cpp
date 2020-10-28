@@ -4,7 +4,7 @@
 // *******************
 // Turing.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // 
-// Put your code into "turingCode.txt" file located in the Turing folder. The code should be written as shown on line 3.
+// Put your code into "turingCode.txt" file located in the Turing folder. The code should be written as shown below.
 // turing code: 1323r --> state2, read, write, state2, direction
 // input: 1345 --> start at index 4!! 
 
